@@ -1,0 +1,848 @@
+[
+  {
+    "codigo": "SEDES-HV-PART-001",
+    "nombre": "Dra. Minerva Claudia Gallardo Flores",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-002",
+    "nombre": "Tec. Medio Enf. Exaltacion Isabel Aquino Loayza",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-003",
+    "nombre": "Dra. Kehila Garabito Soliz",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-004",
+    "nombre": "Dra. Lorena Lozano Bonifaz",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-005",
+    "nombre": "Dr. Gerson Alexis Areco Farfan",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-006",
+    "nombre": "Est. Univ. Magdalena Alejandra Oviedo Rios",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-007",
+    "nombre": "Dra. Paola Cecilia Salazar Ricaldi",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-008",
+    "nombre": "Dr. Fabricio Michel Vera",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-009",
+    "nombre": "Dra. Maria Jose Camacho Gonzales",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-010",
+    "nombre": "Dra. Luz Mirna Ribera Arias",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-011",
+    "nombre": "Dra. Vanesa Monica Arroyo Flores",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-012",
+    "nombre": "Dr. Ervin Seborga Martinez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-013",
+    "nombre": "Dra. Emma Susana Lizarazu Velasquez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-014",
+    "nombre": "Dra. Vivian Angela Castañares Enriquez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-015",
+    "nombre": "Dra. Elizabeth Flores Ortega",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-016",
+    "nombre": "Dra. Claudia Lorena Ramos Ruiz",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-017",
+    "nombre": "Dra. Yenifer Zelaya Espinoza",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-018",
+    "nombre": "Aux. Mirian Gladys Yarvi Caro",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-019",
+    "nombre": "Lic. Mirtha Chorolque Chiri",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-020",
+    "nombre": "Aux. Enf. Jorge Luis Trujillo",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-021",
+    "nombre": "Est. Univ. Marvin Gabriel Marca Lopez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-022",
+    "nombre": "Est. Univ. Melisa Dayan Urzagaste Sullca",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-023",
+    "nombre": "Dr. Erick Alejandro Ortega Burgos",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-024",
+    "nombre": "Dr. Javier Gustavo Alfaro Lavadenz",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-025",
+    "nombre": "Dra. Monica Elizabeth Galvez Anibarro",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-026",
+    "nombre": "Lic.Marcela Estefania Burgos Gutierrez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-027",
+    "nombre": "Dra. Gladys Alfaro Lavadenz",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-028",
+    "nombre": "Dra. Carmen Rosa Higueras Albornoz",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-029",
+    "nombre": "Dr. Ademar Orlando Suruguay Cardozo",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-030",
+    "nombre": "Dra. Virginia Martinez Buitrago",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-031",
+    "nombre": "Dra. Marianela Noemi Camacho Gonzales",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-032",
+    "nombre": "Dr. Jose Camacho Lobo",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-033",
+    "nombre": "Dr. Aaron Alvarez Copa",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-034",
+    "nombre": "Aux. Enf. Edil Bejarano Mancilla",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-035",
+    "nombre": "Dr. Eddy Martinez Soraide",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-036",
+    "nombre": "Lic. Carla Evelyn Choque Vilte",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-037",
+    "nombre": "Dr. Ottmar Daniel Corrillo Machicado",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-038",
+    "nombre": "Dr.Juan Sergio Aguirre Vargas",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-039",
+    "nombre": "Dra. Rosse Mary Zenteno Colque",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-040",
+    "nombre": "Lic. Yuliana Iveth Barrios Jerez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-041",
+    "nombre": "Dra. Jenny K. Lopez Gutierrez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-042",
+    "nombre": "Dr. Jorge Vera Mendieta",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-043",
+    "nombre": "Dra. Miriam Lizeth Aparicio Yucra",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-044",
+    "nombre": "Dra. Inocencia Cortez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-045",
+    "nombre": "Tec. Medio Enf. Elvio Alarcon Gonzales",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-046",
+    "nombre": "Est Univ. Freddy Andres Ichazo Galvez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-047",
+    "nombre": "Dra. Lia Galvez Anibarro",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-048",
+    "nombre": "Lic. Judith Juarez Canaviri",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-049",
+    "nombre": "Liz Alexandra Sanchez Quispe",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-050",
+    "nombre": "Lic. Dennis Marcela Guzman Saldaña",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-051",
+    "nombre": "Biotec. Rosario Miranda Torrez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-052",
+    "nombre": "Lic. Marina Sanchez Menacho",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-053",
+    "nombre": "Aux. Enf. Sara Zunil Velasquez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-054",
+    "nombre": "Aux. Gina Mercedes Manrriquez Ortega",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-055",
+    "nombre": "Dra. Maria Cristina Armella Fernandez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-056",
+    "nombre": "Est. Univ. Naydelin Nayeli Colque Acuña",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-057",
+    "nombre": "Lic. Paola Muñoz Villagran",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-058",
+    "nombre": "Tec. Medio En Enfermeria  Justina Luna Chino",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-059",
+    "nombre": "Leonela Armella Fernandez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-060",
+    "nombre": "Lic. Maria Elena Aiza Mamani",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-061",
+    "nombre": "Lic. Mariela Barrancos",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-062",
+    "nombre": "Dra. Sandra Marcela Zeballos Ampuero",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-063",
+    "nombre": "M. Sc. Lic. Abel Ajururo Mamani",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-064",
+    "nombre": "Lic. Claudia Quispe Zelaya",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-065",
+    "nombre": "Est. Univ. Erika Soledad Sulca Lopez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-066",
+    "nombre": "Dra. Carmen G.Alarcon Yepez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-067",
+    "nombre": "Biotec. Yesica Valda Tinuco",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-068",
+    "nombre": "Est. Univ. Angela Camila Huarachi Gareca",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-069",
+    "nombre": "Dra. Soledad Corvera Vargas",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-070",
+    "nombre": "Aux. Enf. Ramiro Cruz Coraite",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-071",
+    "nombre": "Univ. Laura Estefany Martinez",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-072",
+    "nombre": "Lic. Adela G. Burgos Castro",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-073",
+    "nombre": "Dra. Maria Luz Zabala Alavi",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-074",
+    "nombre": "Dra. Wendy Mariela Galvez Anibarro",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-PART-075",
+    "nombre": "Lic. Esther Sara Urrutia Arenas",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-EXPO-001",
+    "nombre": "Dr. Carlos Romero Michel",
+    "tipo": "Expositor",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-EXPO-002",
+    "nombre": "Dra. Lia Galvez Anibarro",
+    "tipo": "Expositor",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-EXPO-003",
+    "nombre": "Dra. Magaly Frias Maldonado",
+    "tipo": "Expositor",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-EXPO-004",
+    "nombre": "Dr. Oscar Varas Maire",
+    "tipo": "Expositor",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-EXPO-005",
+    "nombre": "Dra. Liliana Castañon Lizeca",
+    "tipo": "Expositor",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-001",
+    "nombre": "Dr. Carlos Romero Michel",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-002",
+    "nombre": "Dra.Lia Galvez Anibarro",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-003",
+    "nombre": "Dr. Jorge Vera Mendieta",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-004",
+    "nombre": "Lic Emma Velasquez",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-005",
+    "nombre": "Lic. Adela G. Burgos Castro",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-006",
+    "nombre": "Lic. Yolanda Fatima Pattson Vacaflor",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-007",
+    "nombre": "Dra. Jenny K. Lopez Gutierrez",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-008",
+    "nombre": "Dra. Yenifer Zelaya Espinoza",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-009",
+    "nombre": "Dra. Monica Galvez Anibarro",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-010",
+    "nombre": "Dr. Javier Gustavo Alfaro Lavadenz",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-011",
+    "nombre": "Aux. Enf. Jorge Trujillo Condori",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-012",
+    "nombre": "Tec. Jose Luis Delgado Ramirez",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-013",
+    "nombre": "Dra. Mabel Alfaro Segovia",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
+    "codigo": "SEDES-HV-ORG-014",
+    "nombre": "Lic. Elvia Nataly Rios Lara",
+    "tipo": "Organizador",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  }
+]
