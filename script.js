@@ -30,7 +30,7 @@ async function cargarCertificado() {
     try {
 
         // Cargar nuestra base de datos
-        const respuesta = await fetch("certificados.json");
+        const respuesta = await fetch("certificado.json");
 
         if (!respuesta.ok) {
             throw new Error("No se pudo cargar la base de datos.");
