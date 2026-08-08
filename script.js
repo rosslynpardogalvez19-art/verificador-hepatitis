@@ -71,7 +71,61 @@ async function cargarCertificado() {
             return;
         }
 
-        // Si encontramos el certificado
+        // Comprobar el estado del certificado
+        const estado = String(certificado.estado || "")
+            .trim()
+            .toLowerCase();
+
+        // Si el certificado está anulado
+        if (estado !== "válido") {
+
+            resultado.innerHTML = `
+                <div class="no-valido">
+
+                    <div class="estado-anulado">
+                        ✕
+                    </div>
+
+                    <h2>
+                        CERTIFICADO ANULADO
+                    </h2>
+
+                    <div class="linea"></div>
+
+                    <p class="etiqueta">
+                        NOMBRE
+                    </p>
+
+                    <p class="nombre">
+                        ${certificado.nombre}
+                    </p>
+
+                    <p class="etiqueta">
+                        CÓDIGO DE VALIDACIÓN
+                    </p>
+
+                    <p class="dato">
+                        ${certificado.codigo}
+                    </p>
+
+                    <div class="anulado">
+                        ✕ CERTIFICADO NO VÁLIDO
+                    </div>
+
+                    <p class="pie">
+                        Este certificado no se encuentra
+                        vigente en el registro oficial del
+                        II Simposio Departamental de
+                        Hepatitis Virales.
+                    </p>
+
+                </div>
+            `;
+
+            return;
+        }
+
+        // Si encontramos un certificado válido
         resultado.innerHTML = `
 
             <div class="certificado">
@@ -166,7 +220,6 @@ async function cargarCertificado() {
         `;
     }
 }
-
 
 // Iniciar el sistema
 cargarCertificado();
