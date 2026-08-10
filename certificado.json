@@ -675,6 +675,15 @@
     "estado": "Válido"
   },
   {
+    "codigo": "SEDES-HV-PART-076",
+    "nombre": "Dra. Lia Galvez Aníbarro",
+    "tipo": "Participante",
+    "evento": "II Simposio Departamental de Hepatitis Virales",
+    "fecha": "31/07/2026",
+    "lugar": "Tarija",
+    "estado": "Válido"
+  },
+  {
     "codigo": "SEDES-HV-EXPO-001",
     "nombre": "Dr. Carlos Romero Michel",
     "tipo": "Expositor",
